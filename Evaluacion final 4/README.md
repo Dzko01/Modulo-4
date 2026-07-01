@@ -12,4 +12,4 @@ Nombre: Dámazo Sepúlveda
 Curso: Curso Javascript - Módulo 4
 
 ## URL del Repositorio
-Enlace a GitHub:** https://github.com/Dzko01/Modulo-4
+Enlace a GitHub: https://github.com/Dzko01/Modulo-4
